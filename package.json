@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "gulp-htmlmin": "^4.0.0",
-    "open": "0.0.5"
+    "open": "7.0.0"
   }
 }
